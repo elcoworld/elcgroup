@@ -507,11 +507,6 @@
   width: 432px;
   height: 495px;
   --radius: 50px;
-  --animation-custom_in-translate_x: 300px;
-  --animation-custom_in-translate_y: 0px;
-  --animation-custom_in-opacity: 0;
-  --animation-custom_in-rotate: 180deg;
-  --animation-custom_in-scale: 1;
   margin: 0 auto;
 }
 
@@ -539,6 +534,11 @@
   .u-section-2 .u-image-1 {
     width: 410px;
     height: 470px;
+    --animation-custom_in-translate_x: 300px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 180deg;
+    --animation-custom_in-scale: 1;
   }
 }
 
